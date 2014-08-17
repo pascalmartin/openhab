@@ -12,10 +12,10 @@ import static org.junit.Assert.assertEquals;
 
 import java.util.List;
 
-import org.enocean.java.address.EnoceanId;
-import org.enocean.java.address.EnoceanParameterAddress;
-import org.enocean.java.common.EEPId;
 import org.junit.Test;
+import org.opencean.core.address.EnoceanId;
+import org.opencean.core.address.EnoceanParameterAddress;
+import org.opencean.core.common.EEPId;
 import org.openhab.core.items.GenericItem;
 import org.openhab.core.types.Command;
 import org.openhab.core.types.State;
